@@ -1,5 +1,6 @@
 package exercise.android.reemh.todo_items;
 
+import java.util.ArrayList;
 import java.util.List;
 
 
@@ -23,4 +24,10 @@ public interface TodoItemsHolder {
 
   /** delete the @param item */
   void deleteItem(TodoItem item);
+
+  /** sorts the array by creation time of task object*/
+  void sort_by_creation_time();
+
+  /** set the array of items */
+  void setItems(ArrayList<TodoItem> all_items);
 }
