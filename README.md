@@ -1,6 +1,10 @@
 "I pledge the highest level of ethical principles in support of academic excellence.  I ensure that all of my work reflects my own abilities and not those of someone else."
 
 
+Answer to question- The flow is pretty hard to understand for the user since I used the built in vector assets such as the trash can for the delete function and the pencil for the edit function, so it is pretty easy to understnd how to operate the app.
+The implementation is not very and needs to use another activity that pops whenever an edit button is pressed.
+This flow is pretty consistent in all android apps I know.
+
 
 # TodoItems List
 
